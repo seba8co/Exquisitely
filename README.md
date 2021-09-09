@@ -12,3 +12,8 @@ Oups
 * 
 
 # Mhamed still...
+
+
+## Ricardo Mendes
+* this is my contribution a bit late
+* lots of explanaing to do !
